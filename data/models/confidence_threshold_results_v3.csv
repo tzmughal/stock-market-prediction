@@ -1,4 +1,0 @@
-Model,Coverage,N_Confident_Days,Accuracy_on_Confident_Days
-Logistic Regression,0.022,13,0.615
-Random Forest,0.127,76,0.421
-XGBoost,0.362,217,0.484
