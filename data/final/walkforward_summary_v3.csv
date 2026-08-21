@@ -1,0 +1,4 @@
+,Mean_Accuracy,Std_Accuracy,Min_Accuracy,Max_Accuracy
+Logistic Regression,0.501,0.023,0.463,0.527
+Random Forest,0.503,0.026,0.475,0.547
+XGBoost,0.513,0.024,0.483,0.553

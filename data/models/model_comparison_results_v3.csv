@@ -1,0 +1,5 @@
+Model,CV Accuracy,Test Accuracy,Precision,Recall,F1
+Majority-Class Baseline,,0.547,0.547,1.0,0.707
+Logistic Regression,0.495,0.515,0.559,0.53,0.545
+Random Forest,0.5,0.495,0.53,0.671,0.592
+XGBoost,0.512,0.475,0.524,0.43,0.472
